@@ -2,8 +2,7 @@
 
 # User Department CRUD
 
-Um projeto de gerenciame
-nto de usuários desenvolvido com Spring Boot e JPA. Este projeto permite operações CRUD (Criar, Ler, Atualizar e Deletar) para gerenciar informações de usuários.
+Um projeto de gerenciamento de usuários desenvolvido com Spring Boot e JPA. Este projeto permite operações CRUD (Criar, Ler, Atualizar e Deletar) para gerenciar informações de usuários.
 
 ## Tecnologias Utilizadas
 
